@@ -6,9 +6,7 @@
 
 ## About
 
-Nesse módulo criei a estrutura base de uma aplicação React utilizando ferramentas como Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh e descobri conceitos importantes do React como componentes, propriedades, estados e hooks além de aplicar o TypeScript no meu projeto para adicionar tipagem estática à aplicação.
-
-An explorer of the Github public API created on ReactJS from scratch, to learn how to create the basic structure of a React application and find out about important concepts link components, properties, state, hooks. Futhermore, we applied typescript to add static typing to the application.
+An explorer app of the Github public API created on ReactJS configured from scratch, to learn how to create the basic structure of a React application and find out about important concepts link components, properties, state, hooks. Futhermore, we applied typescript to add static typing to the application.
 
 *Tools:*
 
